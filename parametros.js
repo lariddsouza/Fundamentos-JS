@@ -11,7 +11,7 @@ function nomeIdade(nome, idade){
     return `meu nome é ${nome} e minha idade é ${idade}`;
 }
 
-//console.log(nomeIdade("Larissa", 24));
+console.log(nomeIdade("Larissa", 24));
 
 function multiplica(numero1, numero2){
     return  numero1 * numero2;
